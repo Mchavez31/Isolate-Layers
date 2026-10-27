@@ -1,0 +1,4 @@
+*.pdf
+output/
+work/
+__pycache__/
